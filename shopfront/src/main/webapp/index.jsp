@@ -26,7 +26,7 @@
 			<ul class="nav navbar-nav navbar-right">
 				<li><a href="#"><span class="glyphicon glyphicon-user"></span>
 						Sign Up</a></li>
-				<li><a href="#"><span class="glyphicon glyphicon glyphicon-pencil"></span>
+				<li><a href="login.jsp"><span class="glyphicon glyphicon glyphicon-pencil"></span>
 						Login</a></li>
 			</ul>
 
