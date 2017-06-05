@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<!-- This file has been downloaded from Bootsnipp.com. Enjoy! -->
-<title>Login Form - Bootsnipp.com</title>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<%@ include file="index.jsp" %>
 <link
 	href="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"
 	rel="stylesheet">
